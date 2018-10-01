@@ -2,6 +2,8 @@
 .settings
 .project
 test-output
+*.jar
+*.class
 .classpath
 *.iml
 *~
